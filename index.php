@@ -308,7 +308,7 @@ select:focus {
          <div class="col-lg-3 "></div>
 		  <div class="textb col-lg-6">
         <h2  class="sliderh1" style="line-height:45px;color:#262427;font-family: Raleway"><b>“Deciding What NOT To Do Is As Important <br> As Deciding What To Do” </b></h2>
-                                                                    <p style="margin-left:58%;font-size:22px;" >     <i style="color: #262427;font-family: Raleway">–- Shreyas S Kasetty--</i> </P>
+                                                                    <p style="margin-left:58%;font-size:22px;" >     <i style="color: #262427;font-family: Raleway">–- Steve Jobs--</i> </P>
         <!-- <h3 class="" style="line-height:45px; text-align: center; ">Get focused, organized, and calm with our ultimate To-Do List. 
 </h3>-->
         </div>
