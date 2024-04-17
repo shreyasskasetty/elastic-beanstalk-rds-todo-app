@@ -402,7 +402,7 @@ setInterval(GetClock,1000);
        <div class="col-lg-6  col-md-6" >
             <div class="form-group input-container">
                <input type="text" id="task_description"  name="task_description" maxlength="500" class="todo-input form-control" placeholder="Task Description" value="<?php echo $task_description; ?>">
-               <!-- <label for="todo-input" unselectable="on">Task Description</label> -->
+               <!-- <label for="todo-input" unselectable="on">Task Description (TODO)</label> -->
             </div>
    </div>
 
